@@ -14,7 +14,7 @@ $obj->method({param1:"your object",param2:{...}});
 
 ## Главный тезис
 <blockquote>
-Жизнь - боль (True)
+Жизнь - боль (Ну ладно, жить можно...  :shipit:  )
 </blockquote>
 
 ### Почему всё это происходит
