@@ -1,2 +1,3 @@
 # Math
-:+1
+## The Math Header
+**This is bold text**
